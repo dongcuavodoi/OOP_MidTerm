@@ -1,3 +1,4 @@
+package reader;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 import java.util.Scanner;
