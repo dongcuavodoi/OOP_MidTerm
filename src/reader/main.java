@@ -17,6 +17,7 @@ public class main {
 		}catch(Exception e){
 			JOptionPane.showMessageDialog(null, "File khong ton tai!");
 		}
+		///////////////////////////
 		Graph g = new GraphMatrix(4);
 		g.add(0, 1);
 		g.add(0, 2);
